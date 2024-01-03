@@ -1,4 +1,4 @@
-import {BrowserRouter, Route, Switch, withRouter} from 'react-router-dom'
+import {BrowserRouter, Route, Switch} from 'react-router-dom'
 
 import Home from './components/Home'
 import NotFound from './components/NotFound'
